@@ -4,11 +4,11 @@
 Installation
 
 ```sh
-pip install -r requirements.txt
+>> pip install -r requirements.txt
 ```
 
 
 Start
 ```sh
-python dns.py
+>> python dns.py
 ```
